@@ -1,4 +1,6 @@
 name: "my-website"
+output_dir: "."
+# home must always be index
 navbar:
   title: "My Website"
   left:
